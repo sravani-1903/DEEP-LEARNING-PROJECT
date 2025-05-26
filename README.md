@@ -83,3 +83,9 @@ Custom Plotting: Specialized functions for ML-specific visualizations
 
 
 #OUTPUT
+![Image](https://github.com/user-attachments/assets/87ccc0d6-71c1-447c-a3cd-b91f86f1cfd6)
+![Image](https://github.com/user-attachments/assets/5b58ddcf-64b2-4edf-9f4a-937c673427da)
+![Image](https://github.com/user-attachments/assets/a94615b3-ca70-4c37-9428-291a50ed2519)
+![Image](https://github.com/user-attachments/assets/e7bd2fa5-3cfe-4417-845b-0686140c6d67)
+![Image](https://github.com/user-attachments/assets/2f7b8323-f58b-4917-9470-7831694cdf4a)
+![Image](https://github.com/user-attachments/assets/e3b8944d-bbca-449a-a79b-fc161f4c8be5)
